@@ -17,10 +17,10 @@
 This scans the items UUID and checks the database for multiple items with the same UUID, this may not be 100% accurate but it works for most items. Most of our users have not had problems with this mod yet. Our database is constantly updating when new items are listed on AH so be patient if it loads slower than usual.
 
 **NBT Dupe Checker Download:**
-Simple go to releases ![](https://github.com/JustJoeYo/NBT-Dupe-Checker/releases/tag/Beta) and download the latest version. I recommend having SBE/Skytils downloaded in case our dupe checker is down (REMEMBER THIS IS BETA AND CAN MESS UP). 
+Simple go to releases ![](https://github.com/SimpleMods/NBT-Dupe-Checker/releases/tag/Beta) and download the latest version. I recommend having SBE/Skytils downloaded in case our dupe checker is down (REMEMBER THIS IS BETA AND CAN MESS UP). 
 
 **Issues:**
-If there are any issues with this please contact my discord JustJoe#2730
+If there are any issues with this please contact my discord Taqj#8506
 I appriciate any info/suggestions for this mod.
 
 **Is this bannable?**
