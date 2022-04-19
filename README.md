@@ -2,20 +2,22 @@
 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
 
   - Adds high-value item dupe checker
-  
+
+  - A dupe checker that is much more reliable than SBE and Skytils dupe checker, this one still works even after most updates.
+
   - Allows you to stay safe while trading
   
   - Removes the risk with trading
   
   - Ensures you will never be wiped by eliminating the chance of buying duped items
  
-![image](https://user-images.githubusercontent.com/53631725/163915354-d68fd3ed-c3b0-41c0-b659-a946080ffe48.png)
+![image](https://raw.githubusercontent.com/JustJoeYo/NBT-Dupe-Checker/main/image_2022-04-18_221452611.png)
 
 **How it Works:**
 This scans the items UUID and checks the database for multiple items with the same UUID, this may not be 100% accurate but it works for most items. Most of our users have not had problems with this mod yet. Our database is constantly updating when new items are listed on AH so be patient if it loads slower than usual.
 
 **NBT Dupe Checker Download:**
-Simple go to releases ![](https://github.com/Skytils/SkytilsMod/tree/0.x) and download the latest version. I recommend having SBE/Skytils downloaded in case our dupe checker is down (REMEMBER THIS IS BETA AND CAN MESS UP). 
+Simple go to releases ![](https://github.com/JustJoeYo/NBT-Dupe-Checker/releases/tag/Beta) and download the latest version. I recommend having SBE/Skytils downloaded in case our dupe checker is down (REMEMBER THIS IS BETA AND CAN MESS UP). 
 
 **Issues:**
 If there are any issues with this please contact my discord JustJoe#2730
