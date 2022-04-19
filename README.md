@@ -3,7 +3,7 @@
 
   - Adds high-value item dupe checker
 
-  - A dupe checker that is much more reliable than SBE and Skytils dupe checker, this one still works even after most updates.
+  - A dupe checker that is much more reliable than SBE and Skytils dupe checker, this one still works even after most updates
 
   - Allows you to stay safe while trading
   
