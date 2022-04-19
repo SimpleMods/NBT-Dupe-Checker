@@ -1,13 +1,13 @@
-NBT Dupe Checker
-A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
+   ### NBT Dupe Checker
+1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
 
-  ◉ Adds high-value item dupe checker
+  - Adds high-value item dupe checker
   
-  ◉ Allows you to stay safe while trading
+  - Allows you to stay safe while trading
   
-  ◉ Removes the risk with trading
+  - Removes the risk with trading
   
-  ◉ Ensures you will never be wiped by eliminating the chance of buying duped items
+  - Ensures you will never be wiped by eliminating the chance of buying duped items
   
 ![image](https://user-images.githubusercontent.com/53631725/163915354-d68fd3ed-c3b0-41c0-b659-a946080ffe48.png)
 
